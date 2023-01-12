@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #2b2923;
+    color: white;
+}
+
+ul{
+    display: flex;
+    margin-left: 15%;
+    margin-bottom: 60px;
+    margin-top: 40px;
+    align-items: center;
+    gap: 50px;
+    list-style: none; 
+    margin-right: 10%; 
+}
+li button{
+    margin-right: 50px;
+    padding: 9px 12px;
+    color: #a09036;
+    border: 1px solid #a09036;
+    border-radius: 8px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}
+
+li{
+    color: #a4a29c;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: small;
+}
+.logo{ 
+   margin-right: 22%;
+   margin-left:28px;
+}
+.logo-img{
+    height: 5vh;
+}
+
+/* hero section */
+
+.hero-section{
+    margin-bottom: 80px;
+}
+
+.hero-section h1{
+    
+    margin-left: 17%; 
+    font-size: 60px;
+    font-weight: 600;
+    width: 30vw;
+    font-family: 'Gentium Book Basic', serif;
+    /* font-family: 'Ubuntu', sans-serif; */
+    color: white;
+}
+
+.hero-section p{
+    position:absolute;
+    right: 27%;
+    top: 22%;
+    margin-left: 15%;
+    width: 20vw;   
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 15px;
+    color: #c3c1be;
+    line-height: 19px;
+}
+
+/* bannner-section */
+.banner-section{
+    margin-left: 17%;
+}
+.banner-section img{
+    width: 60vw;
+    height: 50vh;
+}
