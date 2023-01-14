@@ -5,4 +5,4 @@
 
 * this is how it looks
 
-<img src="Output.png"  width="500" height="400">
+<img src="Output.png"  width="700" height="400">
