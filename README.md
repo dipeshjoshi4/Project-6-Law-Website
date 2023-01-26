@@ -13,7 +13,9 @@
 
 * this website is helpfull to make lawyer or any private lawyer agency.
 * this is how it looks
+
+## Live Link
 * [link](https://justice-fsjs2.netlify.app)
 
-## PROJECT OUTPUT
+## Project Output
 <img src="Output.png"  width="700" height="400">
